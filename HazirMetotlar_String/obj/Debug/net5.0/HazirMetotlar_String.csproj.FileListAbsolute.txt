@@ -1,0 +1,16 @@
+C:\Users\Asus\Desktop\Pratikler\HazirMetotlar_String\bin\Debug\net5.0\HazirMetotlar_String.exe
+C:\Users\Asus\Desktop\Pratikler\HazirMetotlar_String\bin\Debug\net5.0\HazirMetotlar_String.deps.json
+C:\Users\Asus\Desktop\Pratikler\HazirMetotlar_String\bin\Debug\net5.0\HazirMetotlar_String.runtimeconfig.json
+C:\Users\Asus\Desktop\Pratikler\HazirMetotlar_String\bin\Debug\net5.0\HazirMetotlar_String.runtimeconfig.dev.json
+C:\Users\Asus\Desktop\Pratikler\HazirMetotlar_String\bin\Debug\net5.0\HazirMetotlar_String.dll
+C:\Users\Asus\Desktop\Pratikler\HazirMetotlar_String\bin\Debug\net5.0\HazirMetotlar_String.pdb
+C:\Users\Asus\Desktop\Pratikler\HazirMetotlar_String\obj\Debug\net5.0\HazirMetotlar_String.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Pratikler\HazirMetotlar_String\obj\Debug\net5.0\HazirMetotlar_String.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Pratikler\HazirMetotlar_String\obj\Debug\net5.0\HazirMetotlar_String.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Pratikler\HazirMetotlar_String\obj\Debug\net5.0\HazirMetotlar_String.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Pratikler\HazirMetotlar_String\obj\Debug\net5.0\HazirMetotlar_String.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Pratikler\HazirMetotlar_String\obj\Debug\net5.0\HazirMetotlar_String.dll
+C:\Users\Asus\Desktop\Pratikler\HazirMetotlar_String\obj\Debug\net5.0\refint\HazirMetotlar_String.dll
+C:\Users\Asus\Desktop\Pratikler\HazirMetotlar_String\obj\Debug\net5.0\HazirMetotlar_String.pdb
+C:\Users\Asus\Desktop\Pratikler\HazirMetotlar_String\obj\Debug\net5.0\HazirMetotlar_String.genruntimeconfig.cache
+C:\Users\Asus\Desktop\Pratikler\HazirMetotlar_String\obj\Debug\net5.0\ref\HazirMetotlar_String.dll
